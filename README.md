@@ -138,7 +138,7 @@ Interactively asks you three questions and generates a personalised open-source 
 ./script5_manifesto_generator.sh
 ```
 
-**Expected output:** Three prompts appear. After answering, a manifesto is generated, saved to `manifesto_[username].txt`, and printed to the terminal.
+**Expected output:** Three prompts appear. After answering, a manifesto is generated, saved to `manifesto_Nishant127474.txt`, and printed to the terminal.
 
 **Example interaction:**
 ```
